@@ -1,0 +1,956 @@
+﻿Datums;MarkaModelis;Degviela;Veids;Novertējums
+02.01.2017 08:04:26;KIA MAGENTIS;Benzīns;Pamatpārbaude;1
+02.01.2017 08:04:41;AUDI 80 AVANT;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 08:05:46;KIA CEE D;Benzīns;Pamatpārbaude;1
+02.01.2017 08:05:47;CHEVROLET KALOS;Benzīns;Pamatpārbaude;2
+02.01.2017 08:07:15;PEUGEOT 206;Benzīns;Pamatpārbaude;2
+02.01.2017 08:07:54;BMW X5;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:08:04;BMW 330;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:12:31;OPEL VECTRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:13:23;SUBARU IMPREZA;Benzīns;Atkārtota;1
+02.01.2017 08:13:29;RENAULT TRAFIC;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:13:43;HONDA ACCORD;Benzīns un gāze;Atkārtota;1
+02.01.2017 08:14:39;HYUNDAI GETZ;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:15:13;HONDA CRV;Benzīns;Pamatpārbaude;1
+02.01.2017 08:17:07;RENAULT MASTER;Dīzeļdegviela;Atkārtota;0
+02.01.2017 08:17:37;RB 1101;;Pamatpārbaude;1
+02.01.2017 08:20:01;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:21:34;VOLVO S70;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:23:05;FORD FIESTA;Benzīns;Atkārtota;1
+02.01.2017 08:23:53;BMW 523;Benzīns;Atkārtota;0
+02.01.2017 08:24:17;CHRYSLER GRAND VOYAGER;Benzīns;Atkārtota;1
+02.01.2017 08:25:25;TOYOTA AVENSIS;Benzīns un naftas gāze;Pamatpārbaude;0
+02.01.2017 08:25:38;HONDA CRV;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:27:41;RENAULT KANGOO;Benzīns;Pamatpārbaude;2
+02.01.2017 08:28:00;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 08:28:59;VW BORA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:30:41;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:31:55;NISSAN NOTE;Benzīns;Pamatpārbaude;0
+02.01.2017 08:36:02;MITSUBISHI LANCER;Benzīns;Pamatpārbaude;1
+02.01.2017 08:36:27;VW GOLF;Benzīns;Atkārtota;1
+02.01.2017 08:37:34;AUDI 100;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:37:45;JEEP GRAND CHEROKEE;Benzīns un naftas gāze;Pamatpārbaude;0
+02.01.2017 08:37:54;AUDI 80;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 08:38:24;MERCEDES BENZ A160;Benzīns;Pamatpārbaude;1
+02.01.2017 08:38:43;VW GOLF VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:40:25;RYDWAN EURO A750;;Pamatpārbaude;0
+02.01.2017 08:40:26;VOLVO V70;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:40:43;RB 1151;;Pamatpārbaude;1
+02.01.2017 08:41:21;MERCEDES BENZ SPRINTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:42:05;AUDI Q5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:42:05;MAZDA PREMACY;Benzīns;Pamatpārbaude;2
+02.01.2017 08:42:39;PEUGEOT 307;Benzīns;Pamatpārbaude;1
+02.01.2017 08:42:47;NISSAN QASHQAI;Benzīns un gāze;Atkārtota;0
+02.01.2017 08:43:14;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:43:19;SAAB 9-5;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:46:31;AUDI 100;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:46:40;VOLVO S80;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 08:47:53;OPEL ASTRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:47:53;VW GOLF;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:47:56;VW SHARAN;Benzīns un naftas gāze;Atkārtota;0
+02.01.2017 08:48:12;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:49:13;NISSAN QASHQAI;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:49:33;VOLVO V40;Dīzeļdegviela;Atkārtota;2
+02.01.2017 08:50:19;ŠKODA SUPERB;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:51:15;PEUGEOT 2008;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:51:56;VW PASSAT VARIANT;Dīzeļdegviela;Atkārtota;2
+02.01.2017 08:51:58;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:52:29;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:53:00;AUDI 80 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:53:17;OPEL ZAFIRA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:53:18;ŠKODA YETI;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:53:18;VW BORA;Benzīns;Atkārtota;1
+02.01.2017 08:53:52;KIA CEE D;Benzīns;Pamatpārbaude;0
+02.01.2017 08:54:20;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:54:31;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:54:48;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:55:25;CITROEN BERLINGO;Dīzeļdegviela;Atkārtota;2
+02.01.2017 08:56:02;OPEL VECTRA CARAVAN;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:56:54;MERCEDES BENZ C200;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 08:57:47;BMW 530;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 08:57:58;VW TOURAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 08:58:18;VOLVO XC70;Benzīns;Pamatpārbaude;1
+02.01.2017 08:58:40;TOYOTA AVENSIS;Benzīns;Atkārtota;1
+02.01.2017 08:58:50;OPEL ASTRA CARAVAN;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 08:59:03;TOYOTA RAV4;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 08:59:13;TOYOTA RAV4;Dīzeļdegviela;Atkārtota;0
+02.01.2017 08:59:23;OPEL COMBO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 08:59:23;VW SHARAN;Benzīns;Pamatpārbaude;1
+02.01.2017 08:59:39;VW CRAFTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:00:11;CHRYSLER GRAND VOYAGER;Benzīns;Pamatpārbaude;2
+02.01.2017 09:00:25;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:01:05;TOYOTA RAV4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:01:13;MAZDA 6;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:01:28;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:01:48;ZIL 130;Benzīns;Pamatpārbaude;1
+02.01.2017 09:03:36;MAZDA 323 F;Benzīns;Pamatpārbaude;2
+02.01.2017 09:03:40;AUDI A3;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:03:56;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:04:12;VOLVO V70;Dīzeļdegviela;Atkārtota;2
+02.01.2017 09:04:38;CHEVROLET AVEO;Benzīns;Atkārtota;0
+02.01.2017 09:04:39;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:04:41;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:07:10;HONDA CRV;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 09:07:21;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:07:44;CHEVROLET EPICA;Benzīns un gāze;Pamatpārbaude;0
+02.01.2017 09:08:12;AUDI 80;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 09:09:05;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:09:06;AUDI Q5;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:09:37;FORD MONDEO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:09:50;AUDI A3;Dīzeļdegviela;Atkārtota;0
+02.01.2017 09:10:34;FIAT FREEMONT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:10:40;CITROEN BERLINGO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:10:44;OPEL ZAFIRA;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 09:11:09;OPEL ASTRA;Benzīns;Pamatpārbaude;2
+02.01.2017 09:12:44;VW GOLF VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:13:29;MITSUBISHI OUTLANDER;Benzīns;Pamatpārbaude;1
+02.01.2017 09:13:41;TOYOTA COROLLA;Benzīns;Pamatpārbaude;1
+02.01.2017 09:13:45;MERCEDES BENZ GL 350;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:14:00;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:14:22;HYUNDAI I30;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:14:27;BMW 523;Benzīns;Pamatpārbaude;1
+02.01.2017 09:15:08;TOYOTA AURIS;Benzīns;Pamatpārbaude;0
+02.01.2017 09:15:13;OPEL ASTRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:16:47;VOLVO 850;Benzīns;Pamatpārbaude;2
+02.01.2017 09:16:54;TOYOTA AURIS;Benzīns;Pamatpārbaude;0
+02.01.2017 09:17:16;VW TOURAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:17:20;AUDI 80 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:17:32;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:17:39;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:17:47;NISSAN MICRA;Benzīns;Atkārtota;0
+02.01.2017 09:19:31;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:19:47;VOLVO FH;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:20:33;RENAULT KANGOO;Benzīns;Pamatpārbaude;2
+02.01.2017 09:20:45;CHRYSLER VOYAGER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:22:07;KAESSBOHRER XS;;Pamatpārbaude;1
+02.01.2017 09:22:21;OPEL ASTRA STATION WAGON;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:22:48;BMW X5;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:22:54;VOLVO XC90;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:22:55;MITSUBISHI L200;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:22:58;MERCEDES BENZ C200;Benzīns;Pamatpārbaude;1
+02.01.2017 09:24:19;LEXUS RX 350;Benzīns;Pamatpārbaude;1
+02.01.2017 09:24:23;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:24:36;VOLVO FH12;Dīzeļdegviela;Atkārtota;2
+02.01.2017 09:24:45;HONDA ACCORD;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:25:34;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:25:55;VW MULTIVAN;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:26:50;VW CRAFTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:27:02;AUDI A4;Benzīns;Atkārtota;1
+02.01.2017 09:27:33;VW CARAVELLE;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:27:41;BMW 320D;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:28:02;VW GOLF PLUS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:29:21;OPEL ASTRA STATION WAGON;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:29:23;TOYOTA AURIS;Benzīns;Pamatpārbaude;0
+02.01.2017 09:29:57;VOLVO V70;Benzīns;Atkārtota;0
+02.01.2017 09:30:14;AUDI 80;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 09:30:52;NISSAN X TRAIL;Benzīns;Atkārtota;0
+02.01.2017 09:31:13;BMW 316;Benzīns;Atkārtota;1
+02.01.2017 09:32:58;FORD MONDEO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:33:00;AUDI ALLROAD;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:33:12;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:33:12;OPEL VECTRA CARAVAN;Benzīns un gāze;Atkārtota;1
+02.01.2017 09:33:20;IVECO DAILY 65C 15;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:33:37;BMW 530;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:34:24;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:35:18;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:35:18;HYUNDAI I40;Benzīns;Pamatpārbaude;0
+02.01.2017 09:35:40;VW PASSAT VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:35:51;MITSUBISHI COLT;Benzīns;Pamatpārbaude;0
+02.01.2017 09:35:52;AUDI 90;Benzīns;Pamatpārbaude;1
+02.01.2017 09:35:54;BMW X3 XDRIVE 20D;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:36:34;ALFA ROMEO 147;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:37:10;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:37:15;MAZDA 3;Benzīns;Pamatpārbaude;1
+02.01.2017 09:37:23;AUDI 80;Benzīns;Pamatpārbaude;2
+02.01.2017 09:38:00;AUDI 80;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 09:38:03;MAZDA 2;Benzīns;Pamatpārbaude;1
+02.01.2017 09:38:11;AUDI A7;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:38:38;ŠKODA OCTAVIA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:39:06;BMW 325;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:39:16;NISSAN ALMERA TINO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:39:33;VW JETTA;Dīzeļdegviela;Atkārtota;0
+02.01.2017 09:39:51;TOYOTA COROLLA;Benzīns;Pamatpārbaude;0
+02.01.2017 09:40:05;VW BORA;Benzīns;Pamatpārbaude;2
+02.01.2017 09:40:13;HYUNDAI I40;Benzīns;Pamatpārbaude;0
+02.01.2017 09:40:46;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:40:51;AUDI 80 AVANT;Benzīns;Atkārtota;1
+02.01.2017 09:41:34;TOYOTA AVENSIS;Benzīns;Pamatpārbaude;2
+02.01.2017 09:41:53;SCANIA P 270;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:42:50;LLT 8101;;Atkārtota;1
+02.01.2017 09:42:58;KIA CEE D;Benzīns;Pamatpārbaude;0
+02.01.2017 09:44:24;VW TRANSPORTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:44:38;MAZDA 323;Benzīns;Pamatpārbaude;1
+02.01.2017 09:44:58;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 09:44:58;PEUGEOT 307;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:45:16;AUDI A3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:46:11;VW GOLF;Benzīns;Pamatpārbaude;2
+02.01.2017 09:46:29;VW GOLF PLUS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:47:07;HONDA HRV;Benzīns;Atkārtota;1
+02.01.2017 09:47:27;AUDI 80;Benzīns;Pamatpārbaude;2
+02.01.2017 09:47:58;FORD TRANSIT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:48:08;RENAULT CAPTUR;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:48:42;AUDI 100;Benzīns;Pamatpārbaude;2
+02.01.2017 09:48:43;ŠKODA YETI;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:48:44;OPEL VECTRA CARAVAN;Benzīns un gāze;Atkārtota;1
+02.01.2017 09:49:10;VOLVO V70;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 09:49:18;MITSUBISHI PAJERO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:49:30;MAZDA 121;Benzīns;Atkārtota;1
+02.01.2017 09:49:38;MAZDA 6;Benzīns;Pamatpārbaude;2
+02.01.2017 09:49:44;FORD RANGER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:50:05;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:50:32;BMW 520;Benzīns;Atkārtota;1
+02.01.2017 09:51:00;RENAULT MASTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:51:12;TESLA MODEL S;Elektrība;Atkārtota;0
+02.01.2017 09:51:52;KIA SORENTO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:52:04;HONDA CRV;Benzīns;Pamatpārbaude;0
+02.01.2017 09:52:09;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:52:13;HYUNDAI MATRIX;Benzīns;Atkārtota;1
+02.01.2017 09:52:28;VOLVO V70;Benzīns un naftas gāze;Atkārtota;1
+02.01.2017 09:52:45;PAŠIZGATAVOTA;;Pamatpārbaude;1
+02.01.2017 09:53:02;SUBARU LEGACY;Benzīns un naftas gāze;Pamatpārbaude;1
+02.01.2017 09:53:24;KRONE SDP 27;;Atkārtota;2
+02.01.2017 09:53:33;RENAULT LAGUNA;Dīzeļdegviela;Atkārtota;0
+02.01.2017 09:53:38;VW TIGUAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:53:47;CITROEN C-CROSSER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:53:57;HYUNDAI I20;Benzīns;Pamatpārbaude;2
+02.01.2017 09:54:15;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:54:33;AUDI 80;Benzīns;Pamatpārbaude;2
+02.01.2017 09:54:44;CHRYSLER VOYAGER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:55:05;VOLVO FH12;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:55:42;AUDI Q5;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:55:44;TOYOTA AVENSIS;Benzīns un gāze;Pamatpārbaude;0
+02.01.2017 09:55:46;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:55:53;OPEL ASTRA;Benzīns;Pamatpārbaude;2
+02.01.2017 09:56:08;VW POLO VARIANT;Benzīns;Atkārtota;1
+02.01.2017 09:56:38;HONDA CIVIC;Benzīns;Atkārtota;2
+02.01.2017 09:57:11;MITSUBISHI SPACE STAR;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:57:17;PEUGEOT 307;Benzīns;Pamatpārbaude;1
+02.01.2017 09:57:23;HONDA CIVIC;Benzīns;Pamatpārbaude;2
+02.01.2017 09:57:35;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 09:58:03;VOLVO XC60;Dīzeļdegviela;Atkārtota;0
+02.01.2017 09:58:06;OPEL FRONTERA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:58:36;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:59:11;AUDI A6 AVANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 09:59:35;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 09:59:35;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 09:59:47;HONDA CIVIC;Benzīns;Pamatpārbaude;1
+02.01.2017 10:00:14;SAAB 9-3;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:00:15;OPEL ZAFIRA;Benzīns un naftas gāze;Pamatpārbaude;0
+02.01.2017 10:01:01;VW GOLF;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:01:09;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:03:23;MAZDA 323 F;Benzīns;Pamatpārbaude;1
+02.01.2017 10:03:33;OPEL ASTRA;Benzīns;Pamatpārbaude;2
+02.01.2017 10:03:51;OPEL ASTRA GTC;Benzīns;Pamatpārbaude;0
+02.01.2017 10:03:58;VOLVO XC60;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:04:07;VOLVO V40;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:04:12;VOLVO V60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:04:23;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:04:32;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:04:52;VW POLO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:05:29;BMW X5;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:05:31;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 10:06:32;CITROEN C3;Benzīns;Atkārtota;0
+02.01.2017 10:06:45;MITSUBISHI OUTLANDER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:07:08;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 10:07:09;CHEVROLET LACETTI;Benzīns;Pamatpārbaude;1
+02.01.2017 10:07:11;MERCEDES BENZ E250;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:07:53;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:08:08;VOLVO S40;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:08:11;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 10:08:23;TOYOTA VERSO;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 10:08:38;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:08:48;OPEL ASTRA STATION WAGON;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:08:59;BMW 330;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:09:00;LEXUS RX 350;Benzīns;Pamatpārbaude;0
+02.01.2017 10:09:04;BMW 330;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:09:19;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 10:09:35;AUDI 80 AVANT;Benzīns un naftas gāze;Atkārtota;1
+02.01.2017 10:10:23;MERCEDES BENZ C180;Benzīns;Pamatpārbaude;2
+02.01.2017 10:11:12;CHEVROLET CAPTIVA;Benzīns;Pamatpārbaude;0
+02.01.2017 10:11:35;HOBBY 460;;Pamatpārbaude;0
+02.01.2017 10:11:43;ŠKODA SUPERB;Benzīns;Pamatpārbaude;1
+02.01.2017 10:11:43;FORD GALAXY;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:11:58;CHEVROLET CAMARO;Benzīns;Pamatpārbaude;1
+02.01.2017 10:12:01;VW GOLF;Benzīns;Atkārtota;1
+02.01.2017 10:12:16;AUDI A6;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:12:21;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:12:24;AUDI A4;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:13:02;MERCEDES BENZ S350 BLUETEC;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:13:17;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:13:51;NEOPLAN N 1216 HD440;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:14:15;ŠKODA OCTAVIA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:14:20;SCANIA R 470;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:14:38;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:14:43;SUBARU FORESTER;Benzīns;Pamatpārbaude;2
+02.01.2017 10:15:32;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:15:49;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:15:54;FORD B-MAX;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:16:47;MAZDA 626;Benzīns;Pamatpārbaude;2
+02.01.2017 10:17:00;MITSUBISHI COLT;Benzīns;Pamatpārbaude;2
+02.01.2017 10:17:05;VW GOLF;Benzīns;Atkārtota;1
+02.01.2017 10:17:06;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:17:24;BMW X5;Dīzeļdegviela;Atkārtota;0
+02.01.2017 10:17:45;NEPTUN N7-236 PTW;;Pamatpārbaude;0
+02.01.2017 10:18:40;SKYHIGH 1800;;Atkārtota;1
+02.01.2017 10:18:44;CHRYSLER VOYAGER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:18:49;VOLVO XC90;Dīzeļdegviela;Atkārtota;0
+02.01.2017 10:19:08;FORD RANGER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:19:08;VW POLO;Benzīns;Atkārtota;1
+02.01.2017 10:19:13;AUDI A4 AVANT;Benzīns;Pamatpārbaude;1
+02.01.2017 10:19:17;BMW 535D XDRIVE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:19:31;VW MULTIVAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:19:35;OPEL ASTRA CARAVAN;Benzīns;Atkārtota;1
+02.01.2017 10:19:44;BMW 530;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:19:52;VW PASSAT VARIANT;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 10:20:08;AUDI A4;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:20:57;TOYOTA COROLLA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:21:15;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:21:34;AUDI 80;Benzīns;Atkārtota;1
+02.01.2017 10:21:41;RB 1101;;Atkārtota;1
+02.01.2017 10:22:00;OPEL ASTRA CARAVAN;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:22:16;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:22:23;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:22:40;NISSAN PRIMASTAR;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:22:41;OPEL ASTRA;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 10:22:46;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:22:50;PEUGEOT 307;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:23:02;OPEL FRONTERA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:23:08;HONDA ACCORD;Benzīns;Pamatpārbaude;0
+02.01.2017 10:23:11;RB 1101;;Pamatpārbaude;1
+02.01.2017 10:23:15;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:23:21;SETRA S 213 UL;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:23:44;BMW 316;Benzīns un naftas gāze;Pamatpārbaude;1
+02.01.2017 10:24:18;VW GOLF;Dīzeļdegviela;Atkārtota;2
+02.01.2017 10:25:20;AUDI 80;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:25:21;VOLVO S70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:25:26;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:25:28;VW CARAVELLE;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:25:32;SEAT TOLEDO;Benzīns;Pamatpārbaude;2
+02.01.2017 10:25:36;BMW 520;Benzīns;Pamatpārbaude;1
+02.01.2017 10:26:01;HYUNDAI I30;Benzīns;Pamatpārbaude;2
+02.01.2017 10:26:24;PEUGEOT 1007;Benzīns;Pamatpārbaude;1
+02.01.2017 10:26:46;SEAT CORDOBA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:27:15;FORD FOCUS;Benzīns;Pamatpārbaude;1
+02.01.2017 10:27:52;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:27:52;TOYOTA VERSO S;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:28:17;VW GOLF;Benzīns;Pamatpārbaude;2
+02.01.2017 10:28:31;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:28:33;ŠKODA OCTAVIA;Benzīns;Pamatpārbaude;0
+02.01.2017 10:28:55;FORD GALAXY;Benzīns un gāze;Atkārtota;1
+02.01.2017 10:29:06;MERCEDES BENZ C220;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:29:07;AUDI 80;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:29:09;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:29:11;FORD FOCUS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:29:29;HYUNDAI TERRACAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:29:32;MITSUBISHI SPACE STAR;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:29:44;FORD FOCUS;Benzīns un gāze;Pamatpārbaude;0
+02.01.2017 10:30:10;BMW 520D XDRIVE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:30:25;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:30:40;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:31:33;AUDI A4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:31:42;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 10:31:47;OPEL ASTRA;Benzīns;Pamatpārbaude;1
+02.01.2017 10:31:52;TOYOTA RAV4;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 10:31:58;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 10:32:11;MAZ 8114;;Pamatpārbaude;1
+02.01.2017 10:32:43;AUDI A4;Benzīns;Pamatpārbaude;1
+02.01.2017 10:33:52;OPEL ASTRA SPORTS TOURER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:33:54;FORD GALAXY;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:34:04;AUDI 80;Benzīns;Atkārtota;1
+02.01.2017 10:34:30;SOLIDE V2000;;Pamatpārbaude;0
+02.01.2017 10:34:36;OPEL OMEGA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:34:37;VW BORA;Benzīns;Pamatpārbaude;1
+02.01.2017 10:34:52;BMW X6;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:34:55;VW GOLF;Benzīns;Pamatpārbaude;2
+02.01.2017 10:35:42;HUMBAUR STEELY 752111;;Pamatpārbaude;2
+02.01.2017 10:35:43;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:36:37;AUDI A4;Benzīns;Pamatpārbaude;2
+02.01.2017 10:36:51;MITSUBISHI CANTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:37:18;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:37:33;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;1
+02.01.2017 10:37:37;AUDI A3;Benzīns;Pamatpārbaude;2
+02.01.2017 10:37:42;KRONE SD;;Pamatpārbaude;1
+02.01.2017 10:37:43;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:38:00;AUDI A6;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:38:02;HYUNDAI GETZ;Benzīns;Atkārtota;1
+02.01.2017 10:38:41;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:38:44;BMW X5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:39:07;FORD MONDEO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:39:08;ROLLER PALACE 320;;Pamatpārbaude;1
+02.01.2017 10:39:24;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:39:28;EOS COACH E 80Z;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:39:52;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:40:30;KAMAZ 55111;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:40:41;HYUNDAI IX35;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:40:44;BMW X5;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 10:41:12;AUDI A6;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:42:10;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:42:18;FORD MONDEO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:43:13;BMW 530;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:43:18;AUDI 100;Benzīns;Pamatpārbaude;3
+02.01.2017 10:43:20;FORD FIESTA;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 10:43:22;FORD GALAXY;Benzīns;Atkārtota;1
+02.01.2017 10:43:36;AUDI A6;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:43:41;AUDI A3;Benzīns;Pamatpārbaude;0
+02.01.2017 10:43:44;AUDI A3;Benzīns;Pamatpārbaude;1
+02.01.2017 10:43:53;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;2
+02.01.2017 10:43:57;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:44:22;PEUGEOT 508;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:45:22;AUDI Q5;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:45:23;RENAULT ESPACE;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:45:29;BMW 528;Benzīns un naftas gāze;Pamatpārbaude;1
+02.01.2017 10:45:51;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:46:04;BMW 730;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:46:21;MAN TGX 18.440;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:46:42;CHRYSLER VOYAGER;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 10:47:00;VOLVO XC60;Dīzeļdegviela;Atkārtota;0
+02.01.2017 10:48:22;OPEL ASTRA STATION WAGON;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:48:23;VW GOLF;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:48:25;MERCEDES BENZ A140;Benzīns;Pamatpārbaude;1
+02.01.2017 10:48:37;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:48:51;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:48:56;MERCEDES BENZ E220;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:48:59;MERCEDES BENZ A170;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:49:07;MITSUBISHI SPACE STAR;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:50:16;VW TRANSPORTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:50:16;SCANIA P 420;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:50:43;VOLVO V70;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:50:55;GENERAL TRAILER TX34CS;;Pamatpārbaude;2
+02.01.2017 10:51:03;OPEL AGILA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:51:05;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:51:11;AUDI A4;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 10:51:26;AUDI A4;Benzīns;Pamatpārbaude;2
+02.01.2017 10:51:36;OPEL VECTRA;Benzīns;Atkārtota;1
+02.01.2017 10:52:10;HONDA ACCORD;Benzīns;Pamatpārbaude;2
+02.01.2017 10:52:10;VOLVO XC60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:52:19;ŠKODA YETI;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:52:19;FORD FOCUS;Benzīns;Pamatpārbaude;2
+02.01.2017 10:52:21;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:52:32;AUDI A4;Benzīns;Atkārtota;1
+02.01.2017 10:52:35;AUDI A6;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:52:36;HONDA ACCORD;Benzīns;Pamatpārbaude;0
+02.01.2017 10:52:43;MAZDA 323 F;Benzīns;Pamatpārbaude;2
+02.01.2017 10:52:56;NISSAN PRIMERA;Benzīns;Atkārtota;1
+02.01.2017 10:53:01;TOYOTA RAV4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:53:03;TOYOTA AVENSIS;Benzīns;Atkārtota;1
+02.01.2017 10:53:04;HONDA CIVIC;Benzīns;Pamatpārbaude;2
+02.01.2017 10:53:18;MERCEDES BENZ SPRINTER 208;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:53:22;TOYOTA YARIS;Benzīns;Pamatpārbaude;2
+02.01.2017 10:53:32;PEUGEOT 307;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:53:36;CITROEN BERLINGO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:53:39;OPEL ZAFIRA;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 10:53:48;AUDI 80;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 10:53:54;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:53:55;KAESSBOHRER METAGO;;Pamatpārbaude;1
+02.01.2017 10:54:27;VOLVO S60;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 10:54:41;TOYOTA VERSO S;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:54:48;FORD MONDEO;Benzīns;Pamatpārbaude;2
+02.01.2017 10:54:58;TOYOTA PRIUS;Benzīns;Pamatpārbaude;1
+02.01.2017 10:55:13;BMW X5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:55:32;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:55:34;JANMIL NW1S;;Atkārtota;1
+02.01.2017 10:56:30;MAN 18.480;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:56:42;MAZDA 2;Benzīns;Pamatpārbaude;2
+02.01.2017 10:56:45;ŠKODA OCTAVIA;Benzīns;Pamatpārbaude;2
+02.01.2017 10:57:07;VW CARAVELLE;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:57:19;NISSAN QASHQAI;Benzīns;Pamatpārbaude;0
+02.01.2017 10:57:34;VOLVO V70;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 10:57:35;AUDI A6;Benzīns;Pamatpārbaude;1
+02.01.2017 10:57:36;ŠKODA ROOMSTER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:58:05;LAND ROVER RANGE ROVER SPORT;Benzīns;Pamatpārbaude;2
+02.01.2017 10:58:05;NISSAN QASHQAI;Benzīns;Pamatpārbaude;0
+02.01.2017 10:58:06;AUDI A4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 10:58:10;VOLVO V40;Dīzeļdegviela;Atkārtota;0
+02.01.2017 10:58:41;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 10:58:46;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 10:59:02;MERCEDES BENZ S300;Dīzeļdegviela;Atkārtota;1
+02.01.2017 10:59:13;OPEL ASTRA;Benzīns;Pamatpārbaude;2
+02.01.2017 11:00:39;OPEL VECTRA;Benzīns;Pamatpārbaude;1
+02.01.2017 11:01:00;MITSUBISHI COLT;Benzīns;Pamatpārbaude;1
+02.01.2017 11:01:06;MITSUBISHI SPACE STAR;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:01:34;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;2
+02.01.2017 11:02:05;OPEL ASTRA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:02:09;VW GOLF VARIANT;Benzīns;Pamatpārbaude;2
+02.01.2017 11:02:14;AUDI A6;Benzīns;Pamatpārbaude;0
+02.01.2017 11:02:15;OPEL ZAFIRA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:02:32;OPEL ZAFIRA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:02:55;BMW 520D XDRIVE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:03:01;VW TOURAN;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:03:27;LLT 81021;;Pamatpārbaude;1
+02.01.2017 11:03:41;MCC SMART;Benzīns;Pamatpārbaude;2
+02.01.2017 11:03:48;VW GOLF VARIANT;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 11:03:56;TOYOTA PREVIA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:04:00;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:04:04;PEUGEOT 407;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:04:15;MINI COOPER COUNTRYMAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:04:35;SCHMITZ SCS 24;;Atkārtota;0
+02.01.2017 11:04:49;MERCEDES BENZ SPRINTER 209;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:05:21;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:05:23;RENAULT MASTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:05:24;MITSUBISHI LANCER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:05:39;AUDI 80 AVANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:05:44;MITSUBISHI SPACE WAGON;Benzīns;Pamatpārbaude;2
+02.01.2017 11:05:57;VOLVO V70;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:06:25;AUDI A3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:06:43;FORD TRANSIT CUSTOM;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:06:53;ŠKODA FABIA;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:07:27;LEXUS RX 400H;Benzīns;Pamatpārbaude;2
+02.01.2017 11:07:35;BMW 520;Benzīns;Atkārtota;1
+02.01.2017 11:07:46;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;2
+02.01.2017 11:08:22;BMW 530;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:08:22;HONDA ACCORD;Benzīns;Pamatpārbaude;2
+02.01.2017 11:08:24;RENAULT TRAFIC;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:08:52;AUDI A4;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:09:02;VOLVO S80;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:09:13;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:09:58;AUDI A6;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:09:59;DAF XF 105;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:11:01;CHRYSLER GRAND VOYAGER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:11:03;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:11:15;ŠKODA OCTAVIA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:11:49;RB 2211;;Pamatpārbaude;0
+02.01.2017 11:12:10;NISSAN PRIMERA;Benzīns;Pamatpārbaude;2
+02.01.2017 11:12:42;VOLVO S60;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 11:13:03;MERCEDES BENZ VIANO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:13:08;VOLVO V40;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:13:36;RENAULT KOLEOS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:13:40;CITROEN JUMPER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:14:19;MAZDA 6;Benzīns;Pamatpārbaude;2
+02.01.2017 11:14:19;FIAT STILO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:14:21;VOLVO XC60;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:14:24;AUDI A3;Benzīns;Atkārtota;0
+02.01.2017 11:14:42;MERCEDES BENZ C200;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:15:17;OPEL ASTRA;Benzīns;Atkārtota;1
+02.01.2017 11:15:17;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:15:24;VW PASSAT VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:15:26;RENAULT MEGANE;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:15:36;BMW 420D XDRIVE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:15:37;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:15:53;JEEP CHEROKEE;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:16:04;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:16:07;KRONE SD;;Pamatpārbaude;1
+02.01.2017 11:16:57;KIA CEE D;Benzīns;Pamatpārbaude;0
+02.01.2017 11:16:59;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:17:22;AUDI A4;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:17:37;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:17:41;AUDI A4 AVANT;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 11:17:58;NISSAN ALMERA;Benzīns;Pamatpārbaude;2
+02.01.2017 11:18:47;MERCEDES BENZ SPRINTER 313;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:18:53;FIAT UNO;Benzīns;Pamatpārbaude;1
+02.01.2017 11:18:57;NISSAN QASHQAI+2;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:19:08;AUDI 80;Benzīns;Pamatpārbaude;2
+02.01.2017 11:19:12;RENAULT MASTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:19:16;FORD TRANSIT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:19:40;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:19:41;VW GOLF;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:19:49;BRENTEX TRAILER BREN250H;;Atkārtota;0
+02.01.2017 11:20:11;VOLVO V70;Benzīns;Pamatpārbaude;1
+02.01.2017 11:20:38;CITROEN JUMPER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:20:42;AUDI A4;Benzīns;Pamatpārbaude;1
+02.01.2017 11:20:47;AUDI A4;Benzīns;Pamatpārbaude;2
+02.01.2017 11:20:55;VW TIGUAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:21:24;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:21:50;VOLVO S80;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:22:01;MERCEDES BENZ 809;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:22:01;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:22:02;OPEL ASTRA CARAVAN;Benzīns;Pamatpārbaude;2
+02.01.2017 11:22:25;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:22:47;TOYOTA AURIS;Benzīns;Pamatpārbaude;1
+02.01.2017 11:22:58;OPEL COMBO VAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:23:28;SCANIA G 400;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:23:30;MAN 10.150;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:23:37;AUDI 100;Benzīns un gāze;Atkārtota;1
+02.01.2017 11:23:49;KOCK -;;Pamatpārbaude;2
+02.01.2017 11:23:53;MERCEDES BENZ C180;Benzīns;Pamatpārbaude;1
+02.01.2017 11:23:59;VW BORA;Benzīns;Pamatpārbaude;2
+02.01.2017 11:24:15;BMW X5;Benzīns un naftas gāze;Pamatpārbaude;0
+02.01.2017 11:24:20;HYUNDAI GETZ;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:24:21;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:24:54;RB 81015;;Pamatpārbaude;1
+02.01.2017 11:24:55;SSANG YONG REXTON;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:25:10;AUDI A4 AVANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:25:36;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:26:18;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 11:26:26;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:26:34;MAZDA 3;Benzīns;Pamatpārbaude;2
+02.01.2017 11:26:39;HYUNDAI SANTA FE;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:26:47;RENAULT MIDLINER;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:26:49;VW MULTIVAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:26:49;VAZ 21061;Benzīns;Pamatpārbaude;2
+02.01.2017 11:27:04;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:27:05;VW EOS;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:27:15;AUDI A4;Benzīns;Pamatpārbaude;2
+02.01.2017 11:27:20;TOYOTA RAV4;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:27:29;NISSAN E NV200;Elektrība;Pamatpārbaude;0
+02.01.2017 11:27:37;SSANG YONG MUSSO;Benzīns;Pamatpārbaude;2
+02.01.2017 11:28:11;CITROEN C4;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:29:12;NISSAN PRIMERA;Benzīns;Pamatpārbaude;1
+02.01.2017 11:29:34;BMW 530;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:29:43;AUDI A6 AVANT;Benzīns;Atkārtota;1
+02.01.2017 11:30:30;FORD S-MAX;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:30:36;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:30:54;FORD TRANSIT CUSTOM;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:30:55;TOYOTA COROLLA;Benzīns;Pamatpārbaude;0
+02.01.2017 11:30:58;LEXUS RX 300;Benzīns;Pamatpārbaude;0
+02.01.2017 11:31:09;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:31:11;OPEL ASTRA CARAVAN;Benzīns;Pamatpārbaude;1
+02.01.2017 11:31:43;VOLVO V40;Benzīns;Pamatpārbaude;2
+02.01.2017 11:31:56;MERCEDES BENZ CLK230;Benzīns;Pamatpārbaude;2
+02.01.2017 11:32:10;AUDI A6;Benzīns;Pamatpārbaude;1
+02.01.2017 11:32:11;HYUNDAI GETZ;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:32:11;FORD FOCUS;Benzīns;Pamatpārbaude;0
+02.01.2017 11:32:26;AUDI A8;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:32:28;PEUGEOT 307;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:32:38;VW GOLF;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:32:44;SCANIA R 420;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:33:08;AUDI A6;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:33:17;ŠKODA FABIA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:33:23;SETRA S415 UL BUSINESS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:33:41;PEUGEOT 406;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:34:06;FORD GALAXY;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:34:12;MERCEDES BENZ SPRINTER 312;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:34:31;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:34:34;NISSAN X TRAIL;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:34:35;RENAULT LAGUNA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:34:51;AUDI A3;Benzīns;Pamatpārbaude;2
+02.01.2017 11:35:21;AUDI Q7;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:35:29;DACIA LOGAN;Benzīns;Atkārtota;2
+02.01.2017 11:35:30;VOLVO S80;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:35:52;VOLVO S80;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:36:04;SCHMITZ SCS 24;;Pamatpārbaude;1
+02.01.2017 11:36:04;AUDI A4 AVANT;Benzīns;Pamatpārbaude;2
+02.01.2017 11:36:08;VW GOLF VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:36:21;OPEL VECTRA;Benzīns;Atkārtota;1
+02.01.2017 11:36:26;MITSUBISHI OUTLANDER;Benzīns un gāze;Pamatpārbaude;1
+02.01.2017 11:36:41;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:37:00;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:37:06;AUDI A4;Benzīns;Pamatpārbaude;2
+02.01.2017 11:37:37;VOLVO V50;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:37:42;RENAULT MEGANE;Benzīns;Atkārtota;2
+02.01.2017 11:37:48;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:38:03;TOYOTA AYGO;Benzīns;Pamatpārbaude;1
+02.01.2017 11:38:10;VW BORA;Benzīns;Pamatpārbaude;2
+02.01.2017 11:38:15;HONDA CONCERTO;Benzīns;Pamatpārbaude;1
+02.01.2017 11:38:20;BMW 525;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:38:25;FORD TRANSIT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:38:49;FORD KUGA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:39:05;VW TOURAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:39:06;AUDI A3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:39:16;FORD FOCUS;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:39:30;VOLVO XC90;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:39:43;BMW 316;Benzīns;Pamatpārbaude;1
+02.01.2017 11:40:00;HONDA ACCORD;Benzīns;Pamatpārbaude;1
+02.01.2017 11:40:03;VOLVO V40;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:40:13;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:40:31;CHRYSLER TOWN & COUNTRY;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 11:41:07;VOLVO FH;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:41:38;VOLVO XC70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:41:53;AUDI A3;Benzīns;Pamatpārbaude;0
+02.01.2017 11:42:25;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:42:29;TOYOTA LAND CRUISER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:42:37;VOLVO S80;Benzīns;Pamatpārbaude;1
+02.01.2017 11:42:47;MERCEDES BENZ B 200;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:43:10;SEAT IBIZA;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:43:13;TOYOTA SIENNA;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 11:43:28;TOYOTA RAV4;Benzīns;Atkārtota;1
+02.01.2017 11:43:32;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:43:40;AUDI A4 AVANT;Dīzeļdegviela;Atkārtota;0
+02.01.2017 11:43:54;VW GOLF VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:44:07;TOYOTA VERSO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:44:11;VW POLO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:44:11;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:44:20;OPEL ASTRA CARAVAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:44:23;VOLVO S80;Benzīns;Atkārtota;0
+02.01.2017 11:44:25;MAZDA MX-6;Benzīns;Pamatpārbaude;2
+02.01.2017 11:44:38;AUDI 80;Benzīns;Atkārtota;1
+02.01.2017 11:45:07;ŠKODA YETI;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:45:07;AUDI A6;Benzīns;Pamatpārbaude;1
+02.01.2017 11:45:18;PEUGEOT 307;Benzīns;Atkārtota;1
+02.01.2017 11:45:18;SORELPOL N7-202;;Atkārtota;1
+02.01.2017 11:45:19;BMW 530;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:45:26;OPEL ASTRA STATION WAGON;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:45:28;VW TOUAREG;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:45:44;MERCEDES BENZ SPRINTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:46:32;RENAULT KANGOO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:46:50;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:47:02;KRONE SD;;Pamatpārbaude;0
+02.01.2017 11:47:06;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:47:17;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:47:20;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 11:47:20;MAZDA 3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:48:27;MAZDA 626;Benzīns;Pamatpārbaude;1
+02.01.2017 11:48:33;LAND ROVER RANGE ROVER EVOQUE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:48:52;BMW 730D XDRIVE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:49:03;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:49:12;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:49:19;VOLVO S70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:49:21;VOLVO XC90;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:49:33;BMW X5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:49:42;VW GOLF PLUS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:49:48;AUDI 100;Benzīns;Pamatpārbaude;2
+02.01.2017 11:49:50;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:50:16;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:50:30;VOLVO S70;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:50:43;VOLVO S60;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:50:59;TOYOTA YARIS;Benzīns;Pamatpārbaude;1
+02.01.2017 11:51:13;AUDI 80;Benzīns;Atkārtota;1
+02.01.2017 11:51:44;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;2
+02.01.2017 11:51:53;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:52:18;VOLVO V40;Benzīns;Atkārtota;1
+02.01.2017 11:52:31;MITSUBISHI L200;Dīzeļdegviela;Atkārtota;1
+02.01.2017 11:52:38;KIA CEE D;Benzīns;Pamatpārbaude;1
+02.01.2017 11:52:43;MAZDA 6;Benzīns;Pamatpārbaude;1
+02.01.2017 11:52:59;VW GOLF;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:52:59;MERCEDES BENZ S300;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:53:01;AUDI A3;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:53:18;TOYOTA RAV4;Dīzeļdegviela;Atkārtota;2
+02.01.2017 11:53:46;HYUNDAI I30;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:54:17;AUDI A3;Benzīns;Pamatpārbaude;2
+02.01.2017 11:54:27;SAAB 9-3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:54:50;VW POLO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:55:07;OPEL CORSA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:55:09;VW POLO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:55:09;BMW 530;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:55:33;VW PASSAT;Benzīns;Atkārtota;1
+02.01.2017 11:55:38;MERCEDES BENZ ML320;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 11:56:08;TOYOTA LAND CRUISER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:56:27;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:56:30;MERCEDES BENZ SPRINTER 311;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:56:47;ALFA ROMEO 159;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:56:51;TOYOTA COROLLA VERSO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:57:02;AUDI 80;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:57:24;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:57:45;MERCEDES BENZ ML 320;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:57:47;MITSUBISHI PAJERO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:57:56;HONDA ACCORD;Benzīns;Pamatpārbaude;0
+02.01.2017 11:58:11;AUDI A3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:58:36;SUZUKI WAGON R;Benzīns;Pamatpārbaude;2
+02.01.2017 11:58:38;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:59:08;OPEL VECTRA CARAVAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:59:18;MERCEDES BENZ SPRINTER 313;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 11:59:19;FORD FOCUS C-MAX;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:59:26;BMW X3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 11:59:31;AUDI A4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 11:59:45;MITSUBISHI CARISMA;Dīzeļdegviela;Atkārtota;2
+02.01.2017 12:00:05;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:00:39;AUDI 80;Benzīns;Pamatpārbaude;2
+02.01.2017 12:00:44;KRONE SD;;Pamatpārbaude;0
+02.01.2017 12:01:01;VW CADDY;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:01:35;NISSAN PATHFINDER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:01:37;VOLVO XC90;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:01:45;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:01:47;LAND ROVER FREELANDER;Benzīns;Pamatpārbaude;1
+02.01.2017 12:01:47;VW GOLF PLUS;Benzīns;Pamatpārbaude;0
+02.01.2017 12:02:10;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;1
+02.01.2017 12:02:46;BMW X5;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:02:55;OPEL MERIVA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:03:03;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:03:16;MERCEDES BENZ E320;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:03:33;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:03:52;OPEL INSIGNIA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:04:18;VW PASSAT;Benzīns;Pamatpārbaude;2
+02.01.2017 12:04:32;PEUGEOT 206;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:04:42;AUDI A4 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:05:58;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:06:09;ŠKODA ROOMSTER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:06:10;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:06:12;RENAULT FLUENCE;Benzīns;Pamatpārbaude;0
+02.01.2017 12:06:16;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:07:25;FORD TRANSIT CUSTOM;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:07:27;TOYOTA AVENSIS;Benzīns;Pamatpārbaude;2
+02.01.2017 12:07:47;TOYOTA COROLLA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:07:53;NISSAN E NV200;Elektrība;Pamatpārbaude;0
+02.01.2017 12:08:08;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:08:23;BMW X3;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:08:29;SCANIA P124;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:08:34;TOYOTA YARIS;Benzīns;Atkārtota;1
+02.01.2017 12:09:21;CITROEN C5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:09:35;AUDI A6 AVANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:09:36;PEUGEOT 307;Benzīns;Pamatpārbaude;1
+02.01.2017 12:09:54;TOYOTA AURIS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:10:20;KIA CEE D;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:10:28;HYUNDAI SANTA FE;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:10:55;LAND ROVER RANGE ROVER;Benzīns un naftas gāze;Pamatpārbaude;
+02.01.2017 12:11:01;ŠKODA ROOMSTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:11:26;SCANIA R124;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:11:37;MAZDA 323 F;Benzīns;Pamatpārbaude;1
+02.01.2017 12:11:40;VW PASSAT CC;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:11:56;CHEVROLET LACETTI;Benzīns;Atkārtota;1
+02.01.2017 12:12:11;MAZDA 626;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 12:12:15;OPEL ASTRA;Benzīns;Pamatpārbaude;2
+02.01.2017 12:12:25;TOYOTA YARIS;Benzīns;Pamatpārbaude;0
+02.01.2017 12:12:33;RENAULT LAGUNA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:12:38;CITROEN BERLINGO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:12:54;VW GOLF VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:12:57;OPEL VECTRA CARAVAN;Benzīns;Pamatpārbaude;2
+02.01.2017 12:12:59;ŠKODA FABIA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:13:22;AUDI A4;Benzīns;Atkārtota;1
+02.01.2017 12:13:35;MERCEDES BENZ A160;Benzīns;Pamatpārbaude;2
+02.01.2017 12:13:42;MITSUBISHI COLT;Benzīns;Pamatpārbaude;1
+02.01.2017 12:14:00;VW PASSAT;Benzīns;Pamatpārbaude;2
+02.01.2017 12:14:20;BMW 320;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:14:44;VOLVO XC90;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:15:10;SCHMITZ SKO 24;;Pamatpārbaude;0
+02.01.2017 12:15:22;TOYOTA LAND CRUISER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:15:24;MERCEDES BENZ E250;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:15:27;BMW 630;Benzīns;Pamatpārbaude;1
+02.01.2017 12:15:31;MERCEDES BENZ E280;Benzīns;Atkārtota;2
+02.01.2017 12:15:39;TOYOTA LAND CRUISER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:16:29;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:16:37;ALFA ROMEO 159 SPORTWAGON;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:16:46;CHRYSLER VOYAGER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:17:12;AUDI 80;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 12:17:44;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 12:17:44;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:17:49;OPEL COMBO;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:17:49;BMW 316;Benzīns;Pamatpārbaude;2
+02.01.2017 12:17:50;FORD GALAXY;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:18:00;TOYOTA LAND CRUISER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:18:22;VOLVO V70;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:18:37;BMW 330;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:19:04;MINI COOPER;Benzīns;Pamatpārbaude;2
+02.01.2017 12:19:24;VW PASSAT VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:19:28;FORD FOCUS;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:19:43;AUDI 80;Benzīns;Pamatpārbaude;1
+02.01.2017 12:19:49;OPEL ASTRA CARAVAN;Benzīns;Pamatpārbaude;1
+02.01.2017 12:19:54;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:20:45;MERCEDES BENZ ACTROS;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:20:50;MERCEDES BENZ E200;Benzīns;Pamatpārbaude;1
+02.01.2017 12:21:01;AUDI A3;Benzīns;Atkārtota;0
+02.01.2017 12:21:13;VOLVO S80;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:21:17;BMW 318;Benzīns un gāze;Atkārtota;0
+02.01.2017 12:21:20;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:21:28;MERCEDES BENZ C220;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:21:38;AUDI 80 AVANT;Benzīns;Atkārtota;1
+02.01.2017 12:21:39;AUDI 80;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:21:49;SCANIA R 410;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:21:53;TOYOTA AVENSIS;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:22:41;NISSAN QASHQAI+2;Benzīns;Atkārtota;1
+02.01.2017 12:22:46;HONDA ACCORD;Benzīns;Atkārtota;1
+02.01.2017 12:23:12;OPEL MERIVA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:23:13;TOYOTA LAND CRUISER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:23:21;VW CRAFTER;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:23:51;DAF XF 105;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:23:59;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:24:01;VOLVO V40;Benzīns;Pamatpārbaude;1
+02.01.2017 12:24:28;ANSSEMS BSX 1300;;Pamatpārbaude;0
+02.01.2017 12:24:35;VW CRAFTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:25:10;NISSAN X TRAIL;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:25:14;VW BEETLE;Benzīns;Pamatpārbaude;0
+02.01.2017 12:25:43;BMW X5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:26:00;PEUGEOT 308;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:26:10;NISSAN MICRA;Benzīns;Pamatpārbaude;1
+02.01.2017 12:26:11;AUDI A6;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:26:13;VW GOLF VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:26:16;VOLVO V60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:27:41;AUDI A4;Benzīns;Pamatpārbaude;1
+02.01.2017 12:28:07;VW POLO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:28:41;TOYOTA COROLLA VERSO;Dīzeļdegviela;Atkārtota;0
+02.01.2017 12:28:43;MAZDA 6;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:28:48;AUDI 80;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:28:59;VW PASSAT VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:28:59;M 21412 01;Benzīns;Pamatpārbaude;2
+02.01.2017 12:29:23;VW POLO;Benzīns;Pamatpārbaude;2
+02.01.2017 12:29:45;OPEL ZAFIRA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:29:59;PEUGEOT 307;Benzīns;Atkārtota;0
+02.01.2017 12:30:10;TOYOTA LAND CRUISER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:30:13;TOYOTA RAV4;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:30:15;AUDI A6;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:30:19;AUDI A4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:30:23;VW GOLF;Benzīns;Atkārtota;2
+02.01.2017 12:30:57;OPEL OMEGA CARAVAN;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:30:58;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:31:27;TURBOS HOET DESOT 30;;Pamatpārbaude;3
+02.01.2017 12:31:28;VAZ 21061;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 12:32:03;NISSAN JUKE;Benzīns;Pamatpārbaude;0
+02.01.2017 12:32:22;VOLVO XC60;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:32:47;MERCEDES BENZ C180;Benzīns;Atkārtota;1
+02.01.2017 12:32:48;STAS SZ339V;;Pamatpārbaude;1
+02.01.2017 12:33:22;CHRYSLER 300C;Benzīns un gāze;Atkārtota;1
+02.01.2017 12:33:22;RENAULT MASTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:34:01;MERCEDES BENZ ATEGO 815;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:34:20;VW GOLF;Benzīns;Atkārtota;1
+02.01.2017 12:34:25;RENAULT MEGANE SCENIC;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:34:50;LEXUS GS 250;Benzīns;Pamatpārbaude;0
+02.01.2017 12:35:09;RENAULT ESPACE;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:35:10;VW TOURAN;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:35:16;VW GOLF VARIANT;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:35:22;VW PASSAT VARIANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:35:25;TOYOTA HILUX;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:35:31;VOLVO V50;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:35:42;VW PASSAT VARIANT;Benzīns;Pamatpārbaude;1
+02.01.2017 12:35:43;VW BORA;Benzīns;Pamatpārbaude;2
+02.01.2017 12:35:46;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:36:52;SCANIA R 420;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:36:58;VOLVO S60;Benzīns;Pamatpārbaude;2
+02.01.2017 12:37:23;ŠKODA ROOMSTER;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 12:37:50;CHRYSLER VOYAGER;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:37:53;OPEL OMEGA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:38:08;MERCEDES BENZ CLS 320;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:38:16;VW PASSAT;Benzīns;Pamatpārbaude;2
+02.01.2017 12:38:21;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:38:28;CHRYSLER GRAND VOYAGER;Benzīns un gāze;Pamatpārbaude;3
+02.01.2017 12:38:49;NISSAN ALMERA TINO;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:38:57;MERCEDES BENZ ML 270;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:38:57;SAAB 900;Benzīns;Atkārtota;2
+02.01.2017 12:38:58;MITSUBISHI L200;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:39:22;AUDI A4;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:39:42;BMW 318;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:40:00;PEUGEOT BOXER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:40:36;VOLVO S60;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:40:41;SCHWARZMULLER K-SERIE;;Atkārtota;0
+02.01.2017 12:41:15;AUDI A4 AVANT;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:41:16;AUDI 100;Benzīns;Pamatpārbaude;2
+02.01.2017 12:41:31;VOLVO V40;Benzīns;Pamatpārbaude;1
+02.01.2017 12:41:47;VW GOLF;Benzīns;Pamatpārbaude;2
+02.01.2017 12:42:00;VW POLO;Benzīns;Pamatpārbaude;2
+02.01.2017 12:42:00;MAZDA 626;Benzīns;Atkārtota;1
+02.01.2017 12:42:08;VW TRANSPORTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:42:29;VW GOLF VARIANT;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:42:30;HYUNDAI I30;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:42:46;VOLVO XC70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:42:49;VW GOLF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:42:56;FORD FOCUS;Benzīns un naftas gāze;Pamatpārbaude;1
+02.01.2017 12:43:01;VW CRAFTER;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:43:59;VW SHARAN;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:43:59;RB 1J01;;Pamatpārbaude;2
+02.01.2017 12:44:00;VW SHARAN;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:44:26;HYUNDAI I30 CW;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:45:03;OPEL MERIVA;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:45:18;OPEL MERIVA;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:45:39;BMW X3 XDRIVE 20D;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:46:50;JAGUAR XF;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:46:52;HONDA CIVIC;Benzīns;Pamatpārbaude;1
+02.01.2017 12:47:12;AUDI A4;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:47:14;SUBARU LEGACY;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 12:47:32;VW POLO;Benzīns;Pamatpārbaude;0
+02.01.2017 12:47:35;BMW X5;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:47:45;MITSUBISHI PAJERO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:47:46;OPEL FRONTERA;Benzīns un gāze;Pamatpārbaude;2
+02.01.2017 12:47:49;SUBARU LEGACY;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:49:06;TOYOTA AVENSIS;Benzīns;Pamatpārbaude;0
+02.01.2017 12:49:08;AUDI 80;Benzīns un naftas gāze;Pamatpārbaude;2
+02.01.2017 12:49:15;AUDI A4;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:49:16;ŠKODA FABIA;Benzīns;Pamatpārbaude;0
+02.01.2017 12:49:22;VW LUPO;Benzīns;Pamatpārbaude;1
+02.01.2017 12:49:29;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:49:47;AUDI A4 ALLROAD QUATTRO;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:50:14;VW GOLF;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:50:14;VW PASSAT;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:50:22;FORD FOCUS;Benzīns;Pamatpārbaude;2
+02.01.2017 12:50:36;OPEL ZAFIRA;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:51:19;NISSAN MURANO;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:51:23;RENAULT MEGANE;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:51:34;MAZ 8114;;Pamatpārbaude;1
+02.01.2017 12:51:36;VOLVO V70;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:52:01;KOGEL SN 24;;Pamatpārbaude;2
+02.01.2017 12:52:03;HYUNDAI I30;Dīzeļdegviela;Atkārtota;0
+02.01.2017 12:52:16;VOLVO XC60;Dīzeļdegviela;Atkārtota;0
+02.01.2017 12:52:18;AUDI A6;Dīzeļdegviela;Pamatpārbaude;0
+02.01.2017 12:52:19;BMW 318;Dīzeļdegviela;Pamatpārbaude;1
+02.01.2017 12:52:36;HYUNDAI TERRACAN;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:53:17;VW GOLF;Benzīns;Pamatpārbaude;1
+02.01.2017 12:53:34;VW TRANSPORTER;Dīzeļdegviela;Pamatpārbaude;2
+02.01.2017 12:53:40;JEEP CHEROKEE;Dīzeļdegviela;Atkārtota;1
+02.01.2017 12:53:41;MERCEDES BENZ S400;Dīzeļdegviela;Atkārtota;0
+02.01.2017 12:53:49;VOLVO V70;Benzīns un dabas gāze;Pamatpārbaude;2
