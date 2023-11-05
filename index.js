@@ -6,7 +6,7 @@ const https = require('https');
 const app = express();
 const port = 3000;
 
-const localPath = 'resources/cars.csv';
+const localPath = 'cars.csv';
 
 const charMap = {
     'ā': 'a',
