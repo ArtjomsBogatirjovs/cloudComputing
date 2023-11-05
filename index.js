@@ -71,6 +71,10 @@ const getDataFromFile = () => {
             });
     });
 };
+app.get('/', (req, res) => {
+    res.send('Hello, World! Artjoms Bogatirjovs 171RDB112 :)');
+});
+
 app.get('/getData/make/:make/engine/:engine', (req, res) => {
     const {make, engine} = req.params;
 
