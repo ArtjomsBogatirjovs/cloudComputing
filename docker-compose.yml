@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  app-car:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - minio
+      - rabbitmq
+    environment:
+      MINIO_ENDPOINT: "minio:9000"
+      MINIO_ACCESS_KEY: "minioadmin"
+      MINIO_SECRET_KEY: "minioadmin"
+      RABBITMQ_HOST: "rabbitmq"
+      RABBITMQ_QUEUE: "QUEUE-NAME"
+
+
+
+  minio:
+    image: minio/minio
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ACCESS_KEY: "minioadmin"
+      MINIO_SECRET_KEY: "minioadmin"
+    command: server /data --console-address ":9001"
+
+  rabbitmq:
+    image: "rabbitmq:management"
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: "guest"
+      RABBITMQ_DEFAULT_PASS: "guest"
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: "ab"
+      MONGO_INITDB_ROOT_PASSWORD: "ab"
