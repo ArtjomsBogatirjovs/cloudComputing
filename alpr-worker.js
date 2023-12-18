@@ -1,7 +1,8 @@
 const amqp = require('amqplib');
 
 async function startWorker() {
-    const rabbitMQConnectionURL = 'amqp://127.0.0.1:5672/';
+    const rabbitMQConnectionURL = 'amqp://rabbitmq';
+    //const rabbitMQConnectionURL = 'amqp://127.0.0.1:5672';
     const rabbitMQQueue = 'QUEUE-NAME';
 
     try {
@@ -28,4 +29,4 @@ async function startWorker() {
     }
 }
 
-startWorker();
+module.exports = { startWorker };
