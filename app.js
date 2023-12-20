@@ -11,8 +11,6 @@ const multer = require('multer');
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
-
-
 //MINIO
 const Minio = require('minio');
 const bucketName = 'cars';
@@ -61,6 +59,23 @@ app.post('/upload', upload.single('image'), (req, res) => {
     });
 });
 
+app.get('/images/:filename', (req, res) => {
+    const filename = req.params.filename;
+
+    // Set the response content type based on your image type
+    const contentType = 'image/jpeg'; // Adjust accordingly
+
+    // Retrieve the image from MinIO
+    minioClient.getObject(bucketName, filename, (err, dataStream) => {
+        if (err) {
+            console.error('Error retrieving image from MinIO:', err);
+            return res.status(500).json({ error: 'Failed to retrieve image from MinIO' });
+        }
+
+        res.setHeader('Content-Type', contentType);
+        dataStream.pipe(res);
+    });
+});
 
 app.get('/', (req, res) => {
     res.send('Hello, World! Artjoms Bogatirjovs 171RDB112 :)');

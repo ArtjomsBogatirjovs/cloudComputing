@@ -69,3 +69,11 @@ services:
 #      interval: 10s
 #      timeout: 5s
 #      retries: 3
+  openalpr:
+    image: openalpr/openalpr
+    entrypoint: /bin/bash
+    stdin_open: true
+    tty: true
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
