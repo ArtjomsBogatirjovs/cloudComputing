@@ -1,22 +1,26 @@
 //APP
+const constants = require('./constants');
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = constants.APP_PORT;
+
+const MongoClient = require('mongodb').MongoClient;
+const mongodbUrl = constants.MONGODB_URL;
+const dbName = 'user';
 
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({extended: true}));
 
 const multer = require('multer');
 const storage = multer.memoryStorage();
-const upload = multer({ storage: storage });
+const upload = multer({storage: storage});
 
 //MINIO
 const Minio = require('minio');
-const bucketName = 'cars';
+const bucketName = constants.MINIO_BUCKET_NAME;
 const minioClient = new Minio.Client({
-    //endPoint: '127.0.0.1',
-    endPoint: 'minio',
+    endPoint: constants.MINIO_ENDPOINT,
     port: 9000,
     useSSL: false,
     accessKey: 'minioadmin',
@@ -24,24 +28,16 @@ const minioClient = new Minio.Client({
 });
 
 const amqp = require('amqplib');
-const rabbitMQConnectionURL = 'amqp://rabbitmq';
-//const rabbitMQConnectionURL = 'amqp://127.0.0.1:5672';
-const rabbitMQQueue = 'QUEUE-NAME';
+const rabbitMQConnectionURL = constants.RABBITMQ_URL;
+const rabbitMQQueue = constants.RABBITMQ_QUEUE;
 
-app.post('/upload', upload.single('image'), (req, res) => {
-    if (!req.file) {
-        return res.status(400).send('No file uploaded.');
-    }
-    const imageBuffer = req.file.buffer;
-    const imageName = `${Date.now()}_${req.file.originalname}`;
-
+function uploadToMinio(imageName, imageBuffer, res) {
     minioClient.putObject(bucketName, imageName, imageBuffer, async (err, etag) => {
         if (err) {
             console.error(err);
             return res.status(500).send('Error uploading file to Minio.     ' + err);
         }
 
-        // Send to RabbitMQ
         try {
             const connection = await amqp.connect(rabbitMQConnectionURL,);
             const channel = await connection.createChannel();
@@ -57,6 +53,26 @@ app.post('/upload', upload.single('image'), (req, res) => {
 
         res.status(200).send('File uploaded successfully.');
     });
+}
+
+app.post('/upload/in', upload.single('image'), (req, res) => {
+    if (!req.file) {
+        return res.status(400).send('No file uploaded.');
+    }
+    const imageBuffer = req.file.buffer;
+    const imageName = `${Date.now()}_${req.file.originalname}${constants.IN_IMAGE}`;
+
+    uploadToMinio(imageName, imageBuffer, res);
+});
+
+app.post('/upload/out', upload.single('image'), (req, res) => {
+    if (!req.file) {
+        return res.status(400).send('No file uploaded.');
+    }
+    const imageBuffer = req.file.buffer;
+    const imageName = `${Date.now()}_${req.file.originalname}${constants.OUT_IMAGE}`;
+
+    uploadToMinio(imageName, imageBuffer, res);
 });
 
 app.get('/images/:filename', (req, res) => {
@@ -69,12 +85,40 @@ app.get('/images/:filename', (req, res) => {
     minioClient.getObject(bucketName, filename, (err, dataStream) => {
         if (err) {
             console.error('Error retrieving image from MinIO:', err);
-            return res.status(500).json({ error: 'Failed to retrieve image from MinIO' });
+            return res.status(500).json({error: 'Failed to retrieve image from MinIO'});
         }
 
         res.setHeader('Content-Type', contentType);
         dataStream.pipe(res);
     });
+});
+
+app.post('/user', async (req, res) => {
+    try {
+        const { email, name, plateNumber } = req.body;
+
+        if (!email || !name || !plateNumber) {
+            return res.status(400).json({ error: 'All fields are required' });
+        }
+
+        // Create a new user
+        await MongoClient.connect(mongodbUrl, function (err, db) {
+            if (err) throw err;
+            const dbo = dbo.db(dbName);
+            dbo.collection("data").insertOne(req.body, function (err, result) {
+                dbo.close();
+                res.status(200).send({
+                    message: "Document inserted",
+                    data: result
+                });
+            });
+        });
+
+        res.status(201).json({ message: 'User added successfully', user: newUser });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
 });
 
 app.get('/', (req, res) => {
@@ -85,6 +129,6 @@ app.listen(port, () => {
 });
 
 if (require.main === module) {
-    const { startWorker } = require('./alpr-worker');
+    const {startWorker} = require('./alpr-worker');
     startWorker();
 }

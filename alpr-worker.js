@@ -1,3 +1,4 @@
+const constants = require('./constants');
 const amqp = require('amqplib');
 const {exec} = require('child_process');
 const axios = require('axios');
@@ -6,9 +7,8 @@ const fs = require('fs');
 const localImagePath = 'downloaded_image.jpg';
 
 async function startWorker() {
-    const rabbitMQConnectionURL = 'amqp://rabbitmq';
-//const rabbitMQConnectionURL = 'amqp://127.0.0.1:5672';
-    const rabbitMQQueue = 'QUEUE-NAME';
+    const rabbitMQConnectionURL = constants.RABBITMQ_URL;
+    const rabbitMQQueue = constants.RABBITMQ_QUEUE;
 
     try {
         const connection = await amqp.connect(rabbitMQConnectionURL);
