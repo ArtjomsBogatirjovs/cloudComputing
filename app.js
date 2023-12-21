@@ -4,9 +4,22 @@ const express = require('express');
 const app = express();
 const port = constants.APP_PORT;
 
-const MongoClient = require('mongodb').MongoClient;
 const mongodbUrl = constants.MONGODB_URL;
-const dbName = 'user';
+const dbName = 'myDB';
+
+const mongoose = require('mongoose');
+app.use(express.json());
+
+mongoose.connect(mongodbUrl + dbName)
+    .then(() => {
+        console.log(`Connected to ${dbName}`);
+    })
+    .catch((error) => {
+        console.log(error);
+    });
+
+const userRoute = require('./routes/UserRoute')
+app.use('/user', userRoute)
 
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
@@ -77,11 +90,8 @@ app.post('/upload/out', upload.single('image'), (req, res) => {
 
 app.get('/images/:filename', (req, res) => {
     const filename = req.params.filename;
+    const contentType = 'image/jpeg';
 
-    // Set the response content type based on your image type
-    const contentType = 'image/jpeg'; // Adjust accordingly
-
-    // Retrieve the image from MinIO
     minioClient.getObject(bucketName, filename, (err, dataStream) => {
         if (err) {
             console.error('Error retrieving image from MinIO:', err);
@@ -93,33 +103,6 @@ app.get('/images/:filename', (req, res) => {
     });
 });
 
-app.post('/user', async (req, res) => {
-    try {
-        const { email, name, plateNumber } = req.body;
-
-        if (!email || !name || !plateNumber) {
-            return res.status(400).json({ error: 'All fields are required' });
-        }
-
-        // Create a new user
-        await MongoClient.connect(mongodbUrl, function (err, db) {
-            if (err) throw err;
-            const dbo = dbo.db(dbName);
-            dbo.collection("data").insertOne(req.body, function (err, result) {
-                dbo.close();
-                res.status(200).send({
-                    message: "Document inserted",
-                    data: result
-                });
-            });
-        });
-
-        res.status(201).json({ message: 'User added successfully', user: newUser });
-    } catch (error) {
-        console.error(error);
-        res.status(500).json({ error: 'Internal Server Error' });
-    }
-});
 
 app.get('/', (req, res) => {
     res.send('Hello, World! Artjoms Bogatirjovs 171RDB112 :)');
