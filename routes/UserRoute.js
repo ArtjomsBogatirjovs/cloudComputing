@@ -9,6 +9,7 @@ const {
 } = require('../controllers/UserController')
 
 router.get('/getUsers' , getUsers)
+router.get('/findUser:email' , findUser)
 router.post('/createUser' , createUser)
 
 module.exports = router

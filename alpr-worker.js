@@ -3,6 +3,7 @@ const amqp = require('amqplib');
 const {exec} = require('child_process');
 const axios = require('axios');
 const fs = require('fs');
+const driveController = require("./controllers/DriveInOutController");
 
 const localImagePath = 'downloaded_image.jpg';
 
@@ -24,7 +25,18 @@ async function startWorker() {
 
                 const minioEndpoint = 'http://app-car:3000/images/' + imageName;
 
-                const plateNumber = await simulateCarImageReading(minioEndpoint);
+                let plateNumber;
+                if (imageName.startsWith(constants.DRIVE_IN)) {
+                    plateNumber = await simulateCarImageReading(minioEndpoint);
+                } else {
+                    plateNumber = await getExistingPlateNumber();
+                }
+
+                if (plateNumber != null) {
+                    await driveController.registerDrive(plateNumber.toString(), imageName.startsWith(constants.DRIVE_IN))
+                } else {
+                    console.log("Error in simulating plateNumber!");
+                }
 
                 console.log("Plate number: " + plateNumber);
 
@@ -58,6 +70,11 @@ async function startWorker() {
     } catch (error) {
         console.error('Error in worker:', error);
     }
+}
+
+async function getExistingPlateNumber() {
+    const tempDriveIn = await driveController.findDriveIn();
+    return tempDriveIn ? tempDriveIn.plateNumber : null;
 }
 
 async function downloadImage(url, localPath) {

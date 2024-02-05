@@ -20,6 +20,7 @@
     "mongodb": "^6.3.0",
     "mongoose": "^8.0.3",
     "multer": "^1.4.5-lts.1",
-    "node-red-contrib-plate-recognizer": "^1.0.3"
+    "node-red-contrib-plate-recognizer": "^1.0.3",
+    "nodemailer": "^6.9.9"
   }
 }

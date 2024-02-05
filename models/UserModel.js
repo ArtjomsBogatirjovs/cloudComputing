@@ -7,4 +7,4 @@ const userSchema  = new mongoose.Schema({
     plateNumber: String,
 });
 
-module.exports = mongoose.model('books', userSchema);
+module.exports = mongoose.model('users', userSchema);

@@ -21,6 +21,9 @@ mongoose.connect(mongodbUrl + dbName)
 const userRoute = require('./routes/UserRoute')
 app.use('/user', userRoute)
 
+const driveRoute = require('./routes/DriveInOutRoute')
+app.use('/drive', driveRoute)
+
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
@@ -68,12 +71,13 @@ function uploadToMinio(imageName, imageBuffer, res) {
     });
 }
 
+
 app.post('/upload/in', upload.single('image'), (req, res) => {
     if (!req.file) {
         return res.status(400).send('No file uploaded.');
     }
     const imageBuffer = req.file.buffer;
-    const imageName = `${Date.now()}_${req.file.originalname}${constants.IN_IMAGE}`;
+    const imageName = getFileName(req.file.originalname, true);
 
     uploadToMinio(imageName, imageBuffer, res);
 });
@@ -83,7 +87,7 @@ app.post('/upload/out', upload.single('image'), (req, res) => {
         return res.status(400).send('No file uploaded.');
     }
     const imageBuffer = req.file.buffer;
-    const imageName = `${Date.now()}_${req.file.originalname}${constants.OUT_IMAGE}`;
+    const imageName = getFileName(req.file.originalname, false);
 
     uploadToMinio(imageName, imageBuffer, res);
 });
@@ -102,6 +106,13 @@ app.get('/images/:filename', (req, res) => {
         dataStream.pipe(res);
     });
 });
+
+const getFileName = (fileName, isDriveIn) => {
+    if (isDriveIn) {
+        return `${constants.DRIVE_IN}${Date.now()}_${fileName}`;
+    }
+    return `${constants.DRIVE_OUT}${Date.now()}_${fileName}`;
+}
 
 
 app.get('/', (req, res) => {
