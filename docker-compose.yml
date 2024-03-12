@@ -6,12 +6,8 @@ services:
     ports:
       - "3000:3000"
     depends_on:
-#      minio:
-#        condition: service_healthy
       rabbitmq:
           condition: service_healthy
-#      mongo:
-#          condition: service_healthy
     environment:
       MINIO_ENDPOINT: "minio:9000"
       MINIO_ROOT_USER: "minioadmin"
@@ -29,11 +25,7 @@ services:
       MINIO_ROOT_USER: "minioadmin"
       MINIO_ROOT_PASSWORD: "minioadmin"
     command: server /data --console-address ":9001"
-#    healthcheck:
-#      test: ["CMD", "curl", "--fail", "http://localhost:9000/minio/health/live"]
-#      interval: 10s
-#      timeout: 5s
-#      retries: 3
+
 
   rabbitmq:
     image: "rabbitmq:management"
@@ -53,27 +45,11 @@ services:
     image: mongo
     ports:
       - "27017:27017"
-#    environment:
-#      MONGO_INITDB_ROOT_USERNAME: "ab"
-#      MONGO_INITDB_ROOT_PASSWORD: "ab"
-#    healthcheck:
-#      test:
-#        [
-#          "CMD",
-#          "mongo",
-#          "--quiet",
-#          "127.0.0.1/test",
-#          "--eval",
-#          "'quit(db.runCommand({ ping: 1 }).ok ? 0 : 2)'",
-#        ]
-#      interval: 10s
-#      timeout: 5s
-#      retries: 3
-  openalpr:
-    image: openalpr/openalpr
-    entrypoint: /bin/bash
-    stdin_open: true
-    tty: true
+
+  openalpr_app:
+    build:
+      context: ./OpenALPR-server
+    ports:
+      - "9999:9999"
     depends_on:
-      rabbitmq:
-        condition: service_healthy
+      - rabbitmq
